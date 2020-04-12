@@ -6,3 +6,6 @@ Section: KM058A14
 Projrct name: Fake news detection
 Dataset used link:
 Dataset: https://www.kaggle.com/jruvika/fake-news-detection
+
+Github link:
+https://github.com/visweswarreddy357/Fake-News-Detection
